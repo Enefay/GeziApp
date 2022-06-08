@@ -1,6 +1,8 @@
 
 Projeyi hazırlayanlar: -Batuhan Berk Karadere -Kübra Selçuk
 
+Uygulama Sqflite veritabanı ve Flutter ile yapılmıştır.
+
 Merhaba Kırklareli Gezi Uygulamasına Hoşgeldiniz.
 
 Bu uygulamada kırklareli ilinin gezilebilecek yerleri tanıtılmıştır.
